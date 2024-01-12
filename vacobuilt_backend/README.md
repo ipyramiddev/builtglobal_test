@@ -2,6 +2,9 @@
 
 Test project for REST-like API (HATEOAS is unnecessary) for an online blog.
 
+## Database
+This project uses SQLite as its database. 
+
 ## Get Started
 1. Apply migrations:
 ```bash
