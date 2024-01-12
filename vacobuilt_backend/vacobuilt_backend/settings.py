@@ -124,4 +124,4 @@ STATIC_URL = 'static/'
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 # Allow without last slash character
-APPEND_SLASH = False
+APPEND_SLASH = True
